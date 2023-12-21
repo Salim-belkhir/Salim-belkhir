@@ -46,7 +46,11 @@ I'm currently working with [CGI](https://www.cgi.com/en) as a Fullstack Develope
     <h3 style="color: #666; margin: 5px 0;">🏫 School : Polytech Montpellier</h3>
     <p style="color: #666; margin: 5px 0;">📍City : Montpellier</p>
     <p style="color: #666; margin: 5px 0;">📆 Years of study : September 2021 - June 2024</p>
-    <p style="color: #666; margin: 5px 0;">Description : Courte description de votre expérience à l'École 1.</p>
+    <p style="color: #666; margin: 5px 0;">📋 Description : During my engineering studies, I was able to discover a variety of subjects in both IT and management. In IT, we strengthened our programming skills, programming software, websites and mobile applications, as well as IoT. We did data science (data analyst, data engineering and AI, machine learning, deep learning, etc.). 
+We also worked on architecture and security.
+On the management side, we learned how to run a business, manage teams and so on.</p>
+    <p style="color: #666; margin: 5px 0;"> <a href="https://www.polytech.umontpellier.fr/formation/cycle-ingenieur/informatique-et-gestion/en-quelques-mots">🔗 Informations about IG</a>
+    </p>
 </div>
 
 <!-- Informations sur la deuxième école -->
@@ -55,7 +59,9 @@ I'm currently working with [CGI](https://www.cgi.com/en) as a Fullstack Develope
     <h3 style="color: #666; margin: 5px 0;">🏫 School : Polytech Montpellier</h3>
     <p style="color: #666; margin: 5px 0;">📍City : Montpellier</p>
     <p style="color: #666; margin: 5px 0;">📆 Years of study : September 2019 - June 2021</p>
-    <p style="color: #666; margin: 5px 0;">Description : Courte description de votre expérience à l'École 2.</p>
+    <p style="color: #666; margin: 5px 0;">📋 Description : 2 years of preparatory classes. It was fairly general, with Physics, Chemistry, Mathematics and Computer Science as the main subjects. At the end of these 2 years, an international ranking was established to continue in the engineering cycle.</p>
+    <p style="color: #666; margin: 5px 0;"> <a href="https://www.polytech.umontpellier.fr/formation/peip">🔗 Informations about Peip</a>
+    </p>
 </div>
 
 </details>
@@ -69,5 +75,14 @@ I'm currently working with [CGI](https://www.cgi.com/en) as a Fullstack Develope
 
 
 ### Social media
+💬 Feel free to contact me on my social networks !
 
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+<a href="https://www.linkedin.com/in/salim-belkhir">
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
+<a href="https://www.kaggle.com/salimbelkhir">
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" />
+</a>
+<a href="mailto:salimbelkhir7@gmail.com">
+    <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" />
+</a>
