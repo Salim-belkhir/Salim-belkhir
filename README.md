@@ -46,7 +46,7 @@ I'm currently working with [CGI](https://www.cgi.com/en) as a Fullstack Develope
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="30">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="Angular" height="30" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="Vue"/>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="Tailwind css" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind css" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="Material UI" />
             </div>
         </td>
@@ -55,7 +55,7 @@ I'm currently working with [CGI](https://www.cgi.com/en) as a Fullstack Develope
             <div style="display: grid; grid-template-columns: auto auto auto; text-align: center; gap: 10px">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring boot" height="30" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Express js" height="30" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="Nest js" height="30" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="Nest js" height="30" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" height="30" />
             </div>    
         </td>
@@ -72,12 +72,15 @@ I'm currently working with [CGI](https://www.cgi.com/en) as a Fullstack Develope
         <td valign="top" width="30%">
             <h5>Tools and more</h5>
             <div style="display: grid; grid-template-columns: auto auto auto; text-align: center; gap: 10px">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="30" alt="Docker" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="AWS Service" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" alt="AWS Service" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="30" alt="Jupyter Notebook" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" height="30" alt="Argo CD" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"  height="30" alt="IntelliJ" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"  height="30" alt="Postman" />  
             </div>
         </td>
         <td valign="top" width="30%">
@@ -97,6 +100,43 @@ I'm currently working with [CGI](https://www.cgi.com/en) as a Fullstack Develope
 
 <details>
     <summary><h3>💼 My work experience</h3></summary>
+
+
+<div style="background-color: #fff; border: 1px solid #ccc; border-radius: 5px; padding: 20px; margin: 10px; box-shadow: 2px 2px 5px #aaa;">
+    <h2 style="color: #333;">🧑‍💻 Software Engineer </h2>
+    <img src="./assets/CGI_logo.svg.png" alt="CGI Logo" style="width: 100px; float: left; margin-right: 20px;">
+    <h3 style="color: #666; margin: 5px 0;">🏢 Company: CGI</h3>
+    <p style="color: #666; margin: 5px 0;">📍 City: Montpellier, France</p>
+    <p style="color: #666; margin: 5px 0;">📆 Internship Duration: June 2023 - August 2023</p>
+    <p style="color: #666; margin: 5px 0;">📆 Professional Training Contract: September 2023 - August 2024</p>
+    <p style="color: #666; margin: 5px 0;">📋 Description:
+    <ul style="color: #666;">
+        <li><strong>Professional Training Contract:</strong> Worked with a new team of 8 people for a CGI client. We developed a graphical interface and 8 microservices, with a high requirement for unit test coverage.
+            <br>Technologies: Spring Boot, Java, Angular, TypeScript, PostgreSQL, CI/CD pipelines, Postman.
+        </li>
+        <li><strong>Internship:</strong> Participated in a project for a CGI client in an agile team of 8 people. The main technology used was Liferay (CMS).
+            <br>Technologies: Liferay, Java, JavaScript, Docker, JSP, and GitLab.
+        </li>
+    </ul>
+    </p>
+</div>
+
+
+<div style="background-color: #fff; border: 1px solid #ccc; border-radius: 5px; padding: 20px; margin: 10px; box-shadow: 2px 2px 5px #aaa;">
+    <h2 style="color: #333;">🧑‍💼 Data Scientist Intern</h2>
+    <img src="./assets/ulster-university_logo.com" alt="Ulster University Logo" style="width: 100px; float: left; margin-right: 20px;">
+    <h3 style="color: #666; margin: 5px 0;">🏢 Company: Ulster University</h3>
+    <p style="color: #666; margin: 5px 0;">📍 City: Londonderry, Northern Ireland</p>
+    <p style="color: #666; margin: 5px 0;">📆 Duration: June 2022 - August 2022</p>
+    <p style="color: #666; margin: 5px 0;">📋 Description: 
+    <ul style="color: #666;">
+        <li>Collected, processed, and managed data to provide the university with better tracking of its students.</li>
+        <li>Utilized machine learning to predict students at risk of failure, enabling quicker intervention.</li>
+        <li>Technical tools used: Power BI, Power Automate, AWS Services (S3, SageMaker, AWS Redshift, Amazon Quicksight).</li>
+    </ul>
+    </p>
+</div>
+
 </details>
 
 
