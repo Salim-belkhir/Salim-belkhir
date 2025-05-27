@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 ## About Me
 
-Hello, I'm Salim. I am a developer fullstack passionate about software development (*web or mobile*) and I am also passionate by Data Science (*Machine Learning and Deep learning*). I'm constantly looking for new opportunities to learn and grow in the field of development.
-I'm currently working with [CGI](https://www.cgi.com/en) as a Fullstack Developer.
+Hello, I'm Salim. I am a Software Engineer passionate about software development (*web or mobile*) and I am also passionate by Data Science (*Machine Learning and Deep learning*). I'm constantly looking for new opportunities to learn and grow in the field of development.
+I'm currently working with [Ledger](https://www.ledger.com/) as a Software Engineer.
 
 ## Skills
 
@@ -103,8 +103,23 @@ I'm currently working with [CGI](https://www.cgi.com/en) as a Fullstack Develope
 
 
 <div style="background-color: #fff; border: 1px solid #ccc; border-radius: 5px; padding: 20px; margin: 10px; box-shadow: 2px 2px 5px #aaa;">
+    <h2 style="color: #333;">🧑‍💻 Software Engineer Backend </h2>
+    <img src="./assets/ledger_logo.jpg" alt="CGI Logo" style="width: 100px; float: left; margin-right: 20px;">
+    <h3 style="color: #666; margin: 5px 0;">🏢 Company: Ledger</h3>
+    <p style="color: #666; margin: 5px 0;">📍 City: Montpellier, France</p>
+    <p style="color: #666; margin: 5px 0;">📆 October 2024 - Until today</p>
+    <p style="color: #666; margin: 5px 0;">📋 Description:
+    <ul style="color: #666;">
+        <li>Working on the blockchain</li>
+        <li>Working on making possible to our clients to collect their data through the blockchain</li>
+    </ul>
+    </p>
+</div>
+
+
+<div style="background-color: #fff; border: 1px solid #ccc; border-radius: 5px; padding: 20px; margin: 10px; box-shadow: 2px 2px 5px #aaa;">
     <h2 style="color: #333;">🧑‍💻 Software Engineer </h2>
-    <img src="./assets/CGI_logo.svg.png" alt="CGI Logo" style="width: 100px; float: left; margin-right: 20px;">
+    <img src="./assets/CGI_logo.png" alt="CGI Logo" style="width: 100px; float: left; margin-right: 20px;">
     <h3 style="color: #666; margin: 5px 0;">🏢 Company: CGI</h3>
     <p style="color: #666; margin: 5px 0;">📍 City: Montpellier, France</p>
     <p style="color: #666; margin: 5px 0;">📆 Internship Duration: June 2023 - August 2023</p>
@@ -148,7 +163,7 @@ I'm currently working with [CGI](https://www.cgi.com/en) as a Fullstack Develope
     <h2 style="color: #333;">🧑‍🎓 Engineering student in Computer Science and Management</h2>
     <h3 style="color: #666; margin: 5px 0;">🏫 School : Polytech Montpellier</h3>
     <p style="color: #666; margin: 5px 0;">📍City : Montpellier</p>
-    <p style="color: #666; margin: 5px 0;">📆 Years of study : September 2021 - June 2024</p>
+    <p style="color: #666; margin: 5px 0;">📆 Years of study : September 2021 - August 2024</p>
     <p style="color: #666; margin: 5px 0;">📋 Description : During my engineering studies, I was able to discover a variety of subjects in both IT and management. In IT, we strengthened our programming skills, programming software, websites and mobile applications, as well as IoT. We did data science (data analyst, data engineering and AI, machine learning, deep learning, etc.). 
 We also worked on architecture and security.
 On the management side, we learned how to run a business, manage teams and so on.</p>
